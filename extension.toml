@@ -8,4 +8,4 @@ repository = "https://github.com/gmnz/zed-smarty"
 
 [grammars.smarty]
 repository = "https://github.com/Kibadda/tree-sitter-smarty"
-commit = "10d7ec727362b2978d686b544cee96568e297aae"
+commit = "17432b6dd8ce803d921333ee6ac4ce3132740197"
