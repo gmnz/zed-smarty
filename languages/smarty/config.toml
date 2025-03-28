@@ -1,0 +1,3 @@
+name = "Smarty"
+grammar = "smarty"
+path_suffixes = ["*.tpl"]
